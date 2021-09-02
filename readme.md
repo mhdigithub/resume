@@ -1,6 +1,6 @@
 # Projects Screenshots
 
-### IOT project (with  MERN stack )
+### IoT project (with  MERN stack )
 
 | | | 
 |:-------------------------:|:-------------------------:|
