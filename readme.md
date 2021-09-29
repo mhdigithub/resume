@@ -46,10 +46,9 @@
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/mhdigithub/resume/blob/main/readmepic/w.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/mhdigithub/resume/blob/main/readmepic/x.png">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/mhdigithub/resume/blob/main/readmepic/y.png"> | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/mhdigithub/resume/blob/main/readmepic/z.png"> |
 
-
-
-
-
+| |
+|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/mhdigithub/resume/blob/main/readmepic/yyy.png"> | 
 
 
 
